@@ -18,7 +18,7 @@ Cosmas is designed to provide a modern and responsive personal website solution.
 
 ## Demo
 
-Check out the live demo of Cosmas [here](https://cosmasalor.github.io/Cosmas/).
+Check out the live demo of Cosmas [here](https://cosmasalor.github.io/Auth-login).
 
 ## Installation
 
